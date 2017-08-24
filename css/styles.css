@@ -40,7 +40,7 @@ body {
 }
 
 .bg-overlay {
-    background: url("../img/bg-overlay.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("") repeat scroll 0 0 rgba(0, 0, 0, 0);
     height: 100%;
     left: 0;
     position: fixed;
